@@ -29,3 +29,6 @@
     sudo ./fix_kbd.sh
     ```
 3.  重启系统生效。
+
+## 感谢
+https://tieba.baidu.com/p/8321439299
